@@ -22,7 +22,7 @@
         "files": [
             "app/lib/ActivateAccount.php",
             "app/lib/ApiProducer.php",
-            "app/lib/BoardingCalculator.php",
+            
             "app/lib/CreateAccount.php"
         ],
         "psr-4": {
